@@ -1,0 +1,30 @@
+{
+  "id": "3866678",
+  "name": "my-blog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1546574",
+      "name": "公众号",
+      "font_class": "gongzhonghao",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "9829618",
+      "name": "公众号",
+      "font_class": "gongzhonghao1",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "28650243",
+      "name": "微信公众号",
+      "font_class": "weixingongzhonghao",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
